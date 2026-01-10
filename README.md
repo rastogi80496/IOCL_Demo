@@ -1,4 +1,4 @@
-# 📦 Inventory Management System (MERN Stack)
+# 📦WareHouse Management System (MERN Stack)
 
 A full-stack Inventory Management System built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This application allows users to manage products, track stock levels, handle sales and orders, update in real-time using WebSockets, and maintain user profiles.
 
@@ -61,3 +61,4 @@ npm install
 cd server
 npm run dev
 ```
+
